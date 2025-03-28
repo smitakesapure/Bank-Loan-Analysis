@@ -32,6 +32,15 @@ This project analyzes bank loan data to derive actionable insights, including id
 - Bad Loan Total Received Amount
 
 ---
+## 📸 **Project Snapshots**
+### 1. Loan Status Grid View
+![Loan Status Grid](![Screenshot 2025-03-27 174432](https://github.com/user-attachments/assets/77709cb3-79c5-460f-9511-fe1000b2d470))
+
+### 2. Regional Analysis by State (Filled Map)
+![Regional Analysis](![Screenshot 2025-03-27 174351](https://github.com/user-attachments/assets/7cd3c26a-ddc9-45a0-b59d-8f7ed2e5bb7d))
+
+### 3. Monthly Trends by Issue Date (Line Chart)
+![Monthly Trends](![Screenshot 2025-03-27 174530](https://github.com/user-attachments/assets/92868ec0-790f-4a23-b4c1-a6a4e8b098c8))
 
 ## 📈 **Data Visualization & Reports**
 ### 1. **Loan Status Grid View**
@@ -75,7 +84,7 @@ The loan data was imported from a structured dataset and processed using SQL que
 ---
 
 ## 🔗 **Explore the Project**
-[GitHub Repository Link](https://github.com/smitakesapure/Bank-Loan-Analysis) - Add your GitHub repository link here
+[GitHub Repository Link](https://github.com/smitakesapure/Bank-Loan-Analysis) 
 
 ---
 
